@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently learning L6 Digital Technology and Solutions (Software Engineering).
+I’m a dedicated software engineering apprentice at Queen Mary University, honing my skills in coding and development while contributing to real-world projects. Outside of tech, I’m passionate about basketball, where I channel my teamwork and strategic thinking on the court. Balancing both fields keeps me motivated and driven.
 <!--
 **eshar-heer/eshar-heer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
