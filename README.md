@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning L6 Digital Technology and Solutions (Software Engineering).
-- 💬 Ask me about sports.
-- ⚡ Fun fact: I play Basketball.
-
+- I’m currently learning L6 Digital Technology and Solutions (Software Engineering).
 <!--
 **eshar-heer/eshar-heer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
